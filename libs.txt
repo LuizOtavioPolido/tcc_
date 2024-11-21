@@ -1,0 +1,16 @@
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install easyocr
+pip install imutils
+pip install opencv-python
+
+importante numpy<2
+
+
+
+pip install python-dotenv
+pip install google-cloud-vision
+pip install requests
+
+
+pip3 install opencv-python numpy matplotlib pytesseract
